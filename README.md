@@ -1,12 +1,12 @@
-# 👋 Hola, soy Matías Federico Bascuñán
+# 👋 Hola, soy Matías Federico Bascuñan
 
-🚀 Fullstack Developer | React · Node.js · NestJS · TypeScript
+🚀 Fullstack Developer | React · Node.js · NextJS · TypeScript
 
 ## 🛠️ Tech Stack
 - Frontend: React, Next.js, Tailwind
 - Backend: Node.js, NestJS
 - DB: PostgreSQL, MongoDB
-- Deploy: Vercel, Render
+- Deploy: Vercel, Render, Railway
 
 ## 📂 Proyectos destacados
 - 🐾 Veterinaria Petshop – E-commerce y turnos
