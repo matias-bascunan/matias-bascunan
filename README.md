@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Matías Federico Bascuñán
 
-<!--
-**matias-bascunan/matias-bascunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer | React · Node.js · NestJS · TypeScript
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: React, Next.js, Tailwind
+- Backend: Node.js, NestJS
+- DB: PostgreSQL, MongoDB
+- Deploy: Vercel, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- 🐾 Veterinaria Petshop – E-commerce y turnos
+- 🎬 NovaCine – Plataforma de cine
+- 🏥 Santo Remedio – Sistema médico
+
+📍 San Luis, Argentina
+
